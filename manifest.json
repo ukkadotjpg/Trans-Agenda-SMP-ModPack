@@ -1,0 +1,26 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.19.3",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "TRANS AGENDA SMP",
+  "version": "",
+  "author": "",
+  "overrides": "overrides",
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 8073259,
+      "required": true,
+      "isLocked": false
+    }
+  ],
+  "image": "profileImage/TransAgendaSMPModPack.png"
+}

@@ -1,0 +1,10 @@
+{
+  "drop_chance_overall": 80,
+  "common_drop_rate": 60,
+  "uncommon_drop_rate": 25,
+  "rare_drop_rate": 10,
+  "epic_drop_rate": 4,
+  "legendary_drop_rate": 1,
+  "cursed_drop_rate": 1,
+  "timed_drop_rate": 20
+}

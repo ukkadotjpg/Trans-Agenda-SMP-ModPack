@@ -1,0 +1,12 @@
+{
+  "common_lb": 10,
+  "uncommon_lb": 20,
+  "rare_lb": 40,
+  "epic_lb": 80,
+  "legendary_lb": 200,
+  "cursed_lb": 60,
+  "timed_lb": 40,
+  "enchanted_timed_lb": 200,
+  "locked_lb": 40,
+  "summoning_lb": 40
+}
